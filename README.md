@@ -5,9 +5,11 @@ I found they knew how to be relevant, current and funny.
 Their music has evolved with time so as their subjects, and how they write them. 
 So it came to my mind that I could try to get an "objective" view about their songs using NLP, and it would get me practicing ^^.
 
+## get songs
 First of all I took the list of singles from the Offspring's Wikipedia.
 Then I used this list to get the url of their lyrics on Genius.
 
+## get lyrics (and dates)
 From these single's urls I took with BeautifoulSoup lyrics and their release date still from Genius.
 Then I created a csv file with 3 columns for date, song and lyrics.
 
